@@ -115,7 +115,7 @@ li {
     main {
         width: 100%;
         background-position-y: 0;
-        background-image: url("images/background.svg");
+        background-image: url("images/background.png");
     }
 
     .container {
